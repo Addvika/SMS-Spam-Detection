@@ -1,1 +1,8 @@
+Project to Implement A Robust SMS Spam Detection System
 
+Phase 1:
+Using Geeks4Geeks Tutorial to implement a SMS Spam Detection System, we created a model to build upon.
+
+Phase 2:
+We're exploring Adversarial Learning techniques, and are currently using TextAttack to bypass our spam filter, to gain isnight into what weaknesses our system has.
+Current integration : TextBugger.
